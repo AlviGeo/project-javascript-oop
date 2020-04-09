@@ -19,7 +19,6 @@ resetBtn.addEventListener("click",function(){
 })
 
 
-
 function Stopwatch(elem) {
   var time = 0;
   var interval;

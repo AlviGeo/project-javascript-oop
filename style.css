@@ -1,0 +1,32 @@
+
+body{
+    text-align:center;
+    margin-top:150px;
+    background-color: rgb(241, 235, 225);
+  }
+  
+  #timer{
+    font-family:"Lato";
+    font-size:5em;
+    font-weight:100;
+    background-color: rgb(233, 163, 84);
+  }
+  
+  button{
+    display:inline-block;
+    width:100px;
+    height:35px;
+    background:none;
+    border-radius:10px;
+    box-shadow:none;
+    border: 1px solid #ccc;
+    margin-bottom:15px;
+    background-color: rgb(235, 17, 17);
+  }
+  
+  button:hover{
+    cursor:pointer;
+    background: lightgray;
+  }
+  
+  
